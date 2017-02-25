@@ -7,7 +7,7 @@ Package license: MIT
 
 Feedstock license: BSD 3-Clause
 
-Summary: Definitions for the XRender protocol.
+Summary: C prototypes for the XRender extension to X11.
 
 
 
